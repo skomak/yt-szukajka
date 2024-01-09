@@ -13,7 +13,7 @@ Możliwe jest przestawienie na CPU i RAM przy zmianie na model w wersji bez kwan
 # użycie
 ```bash
 $ source set_env.sh
-$ python yt_szukajka.py
+$ python yt_szukajka.py # link z dema do sprawdzenia samemu https://www.youtube.com/watch?v=6WvQIcm8yw4
 ```
 # demo
 ![](demo.gif)
