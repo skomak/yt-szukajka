@@ -1,5 +1,5 @@
 # yt-szukajka
-Skrypt służy do rozmawiania z materiałami wideo / tekstem z użyciem sztucznej inteligencji - modelu whisper do transkrypcji i trurl-2 do analiz. Obsługuje język angielski i polski. 
+Skrypt służy do rozmawiania z materiałami wideo / tekstem z użyciem sztucznej inteligencji - modelu whisper do transkrypcji i trurl-2 do analiz. Obsługuje język angielski i **polski**. 
 Na tą chwilę działa jedynie dla materiałów rzędu kilku minut, ponieważ kontekst użytego modelu nie jest duży, a także ze względu na duże zapotrzebowanie pamięci GPU.
 
 Skrypt działa domyślnie na GPU.
